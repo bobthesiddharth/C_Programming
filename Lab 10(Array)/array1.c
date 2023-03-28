@@ -1,3 +1,5 @@
+// Print this array A[5]={10,12,13,14,19};
+
 #include<stdio.h>
 
 int main(){
